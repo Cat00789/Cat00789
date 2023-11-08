@@ -1,3 +1,4 @@
+![logo](https://github.com/Cat00789/KOUSHIK-MAITY/blob/main/%E2%80%94Pngtree%E2%80%94hacked%20computer%20screen%20of%20a_3400188.jpg)
 <h1 align="center">Hi 👋, I'm KOUSHIK MAITY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
